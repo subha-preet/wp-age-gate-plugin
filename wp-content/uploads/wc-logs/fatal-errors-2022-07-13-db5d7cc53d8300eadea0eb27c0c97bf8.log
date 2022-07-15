@@ -1,0 +1,62 @@
+2022-07-13T09:54:59+00:00 CRITICAL Cannot redeclare activate_age_gate() (previously declared in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\age-gate\age-gate.php:87) in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\index.php on line 33
+
+2022-07-13T09:55:02+00:00 CRITICAL Cannot redeclare activate_age_gate() (previously declared in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\age-gate\age-gate.php:87) in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\index.php on line 33
+
+2022-07-13T09:55:02+00:00 CRITICAL Cannot redeclare activate_age_gate() (previously declared in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\age-gate\age-gate.php:87) in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\index.php on line 33
+
+2022-07-13T10:05:57+00:00 CRITICAL Uncaught Error: Class "Age_Gate_Activator" not found in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\index.php:45
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(307): activate_gn_age_gate(false)
+#1 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wordpress\wp-admin\includes\plugin.php(691): do_action('activate_gn-age...', false)
+#4 C:\xampp\htdocs\wordpress\wordpress\wp-admin\plugins.php(58): activate_plugin('gn-age-gate/ind...', 'http://localhos...', false)
+#5 {main}
+  thrown in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\index.php on line 45
+
+2022-07-13T10:06:01+00:00 CRITICAL Uncaught Error: Class "Age_Gate_Activator" not found in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\index.php:45
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(307): activate_gn_age_gate('')
+#1 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wordpress\wp-admin\plugins.php(194): do_action('activate_gn-age...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\index.php on line 45
+
+2022-07-13T10:06:01+00:00 CRITICAL Uncaught Error: Class "Age_Gate_Activator" not found in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\index.php:45
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(307): activate_gn_age_gate('')
+#1 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wordpress\wp-admin\plugins.php(194): do_action('activate_gn-age...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\index.php on line 45
+
+2022-07-13T10:06:06+00:00 CRITICAL Uncaught Error: Class "Age_Gate_Activator" not found in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\index.php:45
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(307): activate_gn_age_gate(false)
+#1 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wordpress\wp-admin\includes\plugin.php(691): do_action('activate_gn-age...', false)
+#4 C:\xampp\htdocs\wordpress\wordpress\wp-admin\plugins.php(58): activate_plugin('gn-age-gate/ind...', 'http://localhos...', false)
+#5 {main}
+  thrown in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\index.php on line 45
+
+2022-07-13T10:06:09+00:00 CRITICAL Uncaught Error: Class "Age_Gate_Activator" not found in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\index.php:45
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(307): activate_gn_age_gate('')
+#1 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wordpress\wp-admin\plugins.php(194): do_action('activate_gn-age...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\index.php on line 45
+
+2022-07-13T10:06:10+00:00 CRITICAL Uncaught Error: Class "Age_Gate_Activator" not found in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\index.php:45
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(307): activate_gn_age_gate('')
+#1 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wordpress\wp-admin\plugins.php(194): do_action('activate_gn-age...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\index.php on line 45
+
