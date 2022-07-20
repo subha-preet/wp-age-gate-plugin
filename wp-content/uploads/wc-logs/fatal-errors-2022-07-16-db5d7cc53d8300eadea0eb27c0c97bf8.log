@@ -1,0 +1,68 @@
+2022-07-16T19:03:24+00:00 CRITICAL Uncaught Error: Call to undefined method Gn_Age_Gate_Activator::cleanUserData() in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\includes\class-gn-age-gate-activator.php:72
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\includes\class-gn-age-gate-activator.php(32): Gn_Age_Gate_Activator::formActivator()
+#1 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\gn-age-gate.php(74): Gn_Age_Gate_Activator::activate()
+#2 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(307): activate_gn_age_gate(false)
+#3 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wordpress\wordpress\wp-admin\includes\plugin.php(691): do_action('activate_gn-age...', false)
+#6 C:\xampp\htdocs\wordpress\wordpress\wp-admin\plugins.php(58): activate_plugin('gn-age-gate/gn-...', 'http://localhos...', false)
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\includes\class-gn-age-gate-activator.php on line 72
+
+2022-07-16T19:03:29+00:00 CRITICAL Uncaught Error: Call to undefined method Gn_Age_Gate_Activator::cleanUserData() in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\includes\class-gn-age-gate-activator.php:72
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\includes\class-gn-age-gate-activator.php(32): Gn_Age_Gate_Activator::formActivator()
+#1 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\gn-age-gate.php(74): Gn_Age_Gate_Activator::activate()
+#2 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(307): activate_gn_age_gate('')
+#3 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wordpress\wordpress\wp-admin\plugins.php(194): do_action('activate_gn-age...')
+#6 {main}
+  thrown in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\includes\class-gn-age-gate-activator.php on line 72
+
+2022-07-16T19:03:29+00:00 CRITICAL Uncaught Error: Call to undefined method Gn_Age_Gate_Activator::cleanUserData() in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\includes\class-gn-age-gate-activator.php:72
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\includes\class-gn-age-gate-activator.php(32): Gn_Age_Gate_Activator::formActivator()
+#1 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\gn-age-gate.php(74): Gn_Age_Gate_Activator::activate()
+#2 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(307): activate_gn_age_gate('')
+#3 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wordpress\wordpress\wp-admin\plugins.php(194): do_action('activate_gn-age...')
+#6 {main}
+  thrown in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\includes\class-gn-age-gate-activator.php on line 72
+
+2022-07-16T19:04:27+00:00 CRITICAL Uncaught Error: Call to undefined method Gn_Age_Gate_Activator::cleanUserData() in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\includes\class-gn-age-gate-activator.php:72
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\includes\class-gn-age-gate-activator.php(32): Gn_Age_Gate_Activator::formActivator()
+#1 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\gn-age-gate.php(74): Gn_Age_Gate_Activator::activate()
+#2 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(307): activate_gn_age_gate(false)
+#3 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wordpress\wordpress\wp-admin\includes\plugin.php(691): do_action('activate_gn-age...', false)
+#6 C:\xampp\htdocs\wordpress\wordpress\wp-admin\plugins.php(58): activate_plugin('gn-age-gate/gn-...', 'http://localhos...', false)
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\includes\class-gn-age-gate-activator.php on line 72
+
+2022-07-16T19:04:31+00:00 CRITICAL Uncaught Error: Call to undefined method Gn_Age_Gate_Activator::cleanUserData() in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\includes\class-gn-age-gate-activator.php:72
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\includes\class-gn-age-gate-activator.php(32): Gn_Age_Gate_Activator::formActivator()
+#1 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\gn-age-gate.php(74): Gn_Age_Gate_Activator::activate()
+#2 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(307): activate_gn_age_gate('')
+#3 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wordpress\wordpress\wp-admin\plugins.php(194): do_action('activate_gn-age...')
+#6 {main}
+  thrown in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\includes\class-gn-age-gate-activator.php on line 72
+
+2022-07-16T19:04:31+00:00 CRITICAL Uncaught Error: Call to undefined method Gn_Age_Gate_Activator::cleanUserData() in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\includes\class-gn-age-gate-activator.php:72
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\includes\class-gn-age-gate-activator.php(32): Gn_Age_Gate_Activator::formActivator()
+#1 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\gn-age-gate.php(74): Gn_Age_Gate_Activator::activate()
+#2 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(307): activate_gn_age_gate('')
+#3 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wordpress\wordpress\wp-admin\plugins.php(194): do_action('activate_gn-age...')
+#6 {main}
+  thrown in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\gn-age-gate\includes\class-gn-age-gate-activator.php on line 72
+

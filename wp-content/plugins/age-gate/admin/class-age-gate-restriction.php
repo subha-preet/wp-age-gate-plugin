@@ -119,7 +119,7 @@ class Age_Gate_Restriction extends Age_Gate_Common
     {
         $empties = array_fill_keys($this->config->defaults->restrictions, $fill);
 
-
+        echo $empties;
         return array_merge($empties, $data);
     }
 

@@ -148,6 +148,6 @@ require plugin_dir_path(__FILE__) . 'includes/class-age-gate.php';
 function run_age_gate()
 {
     $plugin = new Age_Gate();
-    // $plugin->run();
+    $plugin->run();
 }
 run_age_gate();

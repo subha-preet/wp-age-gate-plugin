@@ -235,8 +235,6 @@
                 <tr>
                     <th scope="row"><label for="wp_age_gate_date_format"><?php _e("Date format", 'age-gate'); ?></label></th>
                     <td>
-
-
                         <?php $this->render_language_input('date_format', $values, 'settings', 'select'); ?>
                     </td>
                 </tr>
